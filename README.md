@@ -88,7 +88,7 @@ For more information on how to do it go to [Getting Started](#getting-started)
 ```bash
 python -m super_gradients.train_from_recipe architecture=regnetY800 dataset_interface.data_dir=<YOUR_Imagenet_LOCAL_PATH> ckpt_root_dir=<CHEKPOINT_DIRECTORY>
 ```
-More example on how and why to use recipes can be found in [Recipes](#recipes)
+More examples on how and why to use recipes can be found in [Recipes](#recipes)
 
 
 ### Production readiness
